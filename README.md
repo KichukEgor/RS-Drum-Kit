@@ -1,1 +1,1 @@
-https://kichukegor.github.io/Drum-Kit/
+https://kichukegor.github.io/RS-Drum-Kit
